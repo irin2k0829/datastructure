@@ -6,7 +6,7 @@
 linkedList_h* createLinkedList_h(void) {
     linkedList_h* L = malloc(sizeof(linkedList_h));
     if (L == NULL) {
-        printf("¢¬¨­¢¬©£¢¬¢ç ??¢¥? ¨ö?¨¡¨¢\n");
+        printf("Â¢Â¬Â¨Â­Â¢Â¬Â©Â£Â¢Â¬Â¢Ã§ ??Â¢Â¥? Â¨Ã¶?Â¨Â¡Â¨Â¢\n");
         return NULL;
     }
     L->head = NULL;
