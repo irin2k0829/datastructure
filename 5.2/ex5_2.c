@@ -4,7 +4,7 @@
 int main(void) {
 	element item;
 	top = NULL;
-	printf("\n** ¿¬°á ½ºÅÃ ¿¬»ê **\n");
+	printf("\n** Â¿Â¬Â°Ã¡ Â½ÂºÃ…Ãƒ Â¿Â¬Â»Ãª **\n");
 	printStack();
 
 	push(1);	printStack();
